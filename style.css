@@ -1,0 +1,76 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.myTravel{
+    border:1px solid grey;
+    padding-left:0px;
+    padding-right:0px;
+    float:none;
+}
+.myTravel img{
+    width:100%;
+}
+.myTravel h5,p{
+    margin-left:20px;
+}
+.movie1{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+    width:100%;
+}
+.movie1 i{
+    float:right;
+}
+.movie-text span{
+    color:darkblue;
+}
+.nv1{
+    margin-top:13px;    
+}
+.nv1 h4{
+    border-bottom:1px solid white;
+    padding:8px;
+}
+.nv1 img{
+    border-radius:25px;
+}
+.nv1 p{
+    margin-top:10px;
+}
+iframe{
+    margin-top:50px;
+}
+.book{
+    cursor:pointer;
+}
+.book hr{
+    margin-bottom:10px;
+}
+.modal-content{
+    margin-top:100px;
+}
+.img_modal{
+    display:inline-block;
+}
+.p_modal{
+    margin-top:10px;
+}
+.modal-body{
+    text-align:center;
+}
